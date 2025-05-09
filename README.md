@@ -1,3 +1,4 @@
+---
 ## Use Case
 This app can be used to detect the availability of a certain face in;
           - **A video folder of your local computer** - This iterate through all the videos available in the input folder and returns the names of the videos where the 'required' face can be detected.
@@ -19,7 +20,7 @@ This app can be used to detect the availability of a certain face in;
   3. Video Folder - Can navigate through the files in dekstop and select a folder to check the availability of the selected faces in the videos in the folder
   4. Video File - Open a dialog box to navigate through the dekstop to find a video file to detect the selected face
   5. Start Webcam - Open the webcam for detection
-
+---
 ## Features
 
 - 🎥 Real-time face detection from webcam or video files
@@ -28,7 +29,8 @@ This app can be used to detect the availability of a certain face in;
 - 🖼 Select and delete faces using thumbnail previews
 - 🧠 Face embedding using **FaceNet**, detection with **MTCNN**
 - 🖥 Simple and intuitive GUI with Tkinter
-
+  
+---
 ## 🧰 Requirements
 
 - Python 3.8+
