@@ -5,6 +5,7 @@ This app can be used to detect the availability of a certain face in;
           3. A video file on local computer - Here, we can find the certain input face availability in a video file
 
 ## Tabs
+<img width="592" alt="image" src="https://github.com/user-attachments/assets/c6f83bf9-93e2-4e6a-9b82-c66828e183d3" />
 
   1. Add Face - Captures images using webcam and train a CV model to detect the face. Can upload upto 5 faces
   2. Select Face -  From the given 5 faces one face can be selected. Delete option also available
