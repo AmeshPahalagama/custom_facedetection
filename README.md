@@ -4,6 +4,13 @@ This app can be used to detect the availability of a certain face in;
           - **Webcam** - Live detecting a certain input face option is available
           - **A video file on local computer** - Here, we can find the certain input face availability in a video file
 
+---
+
+## 🧬 Project Origin
+
+**Nethmi Custom** – This application was initially developed to detect a specific individual named **Nethmi** within video folders on a local PC. It started as a focused tool using a well-trained binary classifier model built on **8,000 images** of Nethmi. Over time, the project evolved to support **custom face uploads**, allowing users to detect **any individual** by dynamically training a model using webcam input. The original detection logic and model for Nethmi are still included in this project as a reference.
+
+---
 ## Tabs
 <img width="592" alt="image" src="https://github.com/user-attachments/assets/c6f83bf9-93e2-4e6a-9b82-c66828e183d3" />
 
