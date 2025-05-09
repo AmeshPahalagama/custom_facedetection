@@ -9,7 +9,7 @@ This app can be used to detect the availability of a certain face in;
 
 ## 🧬 Project Origin
 
-**Nethmi Custom** – This application was initially developed to detect a specific individual named **Nethmi** within video folders on a local PC. It started as a focused tool using a well-trained binary classifier model built on **8,000 images** of Nethmi. Over time, the project evolved to support **custom face uploads**, allowing users to detect **any individual** by dynamically training a model using webcam input. The original detection logic and model for Nethmi are still included in this project as a reference.
+**Nethmi Custom** – This application was initially developed to detect a specific individual named **Nethmi** within video folders on a local PC. It started as a focused tool using a well-trained binary classifier model built on **9,000 images** of Nethmi. Over time, the project evolved to support **custom face uploads**, allowing users to detect **any individual** by dynamically training a model using webcam input. The original detection logic and model for Nethmi are still included in this project as a reference.
 
 ---
 ## Tabs
