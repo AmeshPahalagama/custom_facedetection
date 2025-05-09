@@ -1,8 +1,8 @@
 ## Use Case
 This app can be used to detect the availability of a certain face in;
-          1. A video folder of your local computer - This iterate through all the videos available in the input folder and returns the names of the videos where the 'required' face can be detected.
-          2. Webcam - Live detecting a certain input face option is available
-          3. A video file on local computer - Here, we can find the certain input face availability in a video file
+          - **A video folder of your local computer** - This iterate through all the videos available in the input folder and returns the names of the videos where the 'required' face can be detected.
+          - **Webcam** - Live detecting a certain input face option is available
+          - **A video file on local computer** - Here, we can find the certain input face availability in a video file
 
 ## Tabs
 <img width="592" alt="image" src="https://github.com/user-attachments/assets/c6f83bf9-93e2-4e6a-9b82-c66828e183d3" />
