@@ -29,6 +29,13 @@ This app can be used to detect the availability of a certain face in;
 - 🖼 Select and delete faces using thumbnail previews
 - 🧠 Face embedding using **FaceNet**, detection with **MTCNN**
 - 🖥 Simple and intuitive GUI with Tkinter
+
+---
+## Enhance Accuracy
+
+          - Train a seperate model if you have a huge data set and work with "Nethmi_Custom" code
+          - Increase the number of images that will be captured at **Add Face** (Initially set to 200 here)
+          - Adjust the threshold accuracy using "Trial and Error"
   
 ---
 ## 🧰 Requirements
@@ -45,3 +52,4 @@ Install dependencies:
 
 ```bash
 pip install torch torchvision opencv-python facenet-pytorch pillow
+
