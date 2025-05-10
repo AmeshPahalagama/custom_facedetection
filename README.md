@@ -48,9 +48,14 @@ This app can be used to detect the availability of a certain face in;
 - torchvision
 - PIL (Pillow)
 - Tkinter (comes with Python standard library)
+  
+## 🎬 Demo
+
+Watch the demo here: [https://youtu.be/DhNJqkpKpy4](https://youtu.be/DhNJqkpKpy4)
 
 Install dependencies:
 
 ```bash
 pip install torch torchvision opencv-python facenet-pytorch pillow
+
 
