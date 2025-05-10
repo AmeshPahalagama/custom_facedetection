@@ -20,7 +20,15 @@ This app can be used to detect the availability of a certain face in;
   3. Video Folder - Can navigate through the files in dekstop and select a folder to check the availability of the selected faces in the videos in the folder
   4. Video File - Open a dialog box to navigate through the dekstop to find a video file to detect the selected face
   5. Start Webcam - Open the webcam for detection
+
 ---
+## Enhance Accuracy
+
+          - Train a seperate model if you have a huge data set and work with "Nethmi_Custom" code
+          - Increase the number of images that will be captured at **Add Face** (Initially set to 200 here)
+          - Adjust the threshold accuracy using "Trial and Error"
+---
+
 ## Features
 
 - 🎥 Real-time face detection from webcam or video files
@@ -30,13 +38,6 @@ This app can be used to detect the availability of a certain face in;
 - 🧠 Face embedding using **FaceNet**, detection with **MTCNN**
 - 🖥 Simple and intuitive GUI with Tkinter
 
----
-## Enhance Accuracy
-
-          - Train a seperate model if you have a huge data set and work with "Nethmi_Custom" code
-          - Increase the number of images that will be captured at **Add Face** (Initially set to 200 here)
-          - Adjust the threshold accuracy using "Trial and Error"
-  
 ---
 ## 🧰 Requirements
 
